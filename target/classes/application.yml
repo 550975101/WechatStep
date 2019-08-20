@@ -1,0 +1,6 @@
+server:
+  port: 9000
+  tomcat:
+    accept-count: 400
+    max-threads: 100
+    uri-encoding: UTF-8
